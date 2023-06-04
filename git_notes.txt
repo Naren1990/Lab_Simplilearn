@@ -6,4 +6,4 @@
 5) Now run the git command as "git add" to push this file to the stagging
 6) Now you can commit the file to push into your local repository using the command as "git commit -m "Decription of your reason to comit"
 7) Now you can send this file to your remote repository by running the command as "git push"
-
+8) You can use "git log" to check who comiited the changes

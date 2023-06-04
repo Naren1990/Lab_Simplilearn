@@ -1,0 +1,9 @@
+
+1) Clone the remote repository to your working machine using "git clone git@github.com:Naren1990/Lab_Simplilearn.git" command
+2) Now on your local machine you can see a folder with the name of the repository on the remote git hub
+3) to check if there are any uncomited files you can run git command as "git status"
+4) Now for pushing a file from local to remote repository please create a random file on your working machine
+5) Now run the git command as "git add" to push this file to the stagging
+6) Now you can commit the file to push into your local repository using the command as "git commit -m "Decription of your reason to comit"
+7) Now you can send this file to your remote repository by running the command as "git push"
+
